@@ -8,11 +8,11 @@ In this analysis, loan status (default or preforming) is considered the y variab
 
 ## Results
 
--Accuracy Score: The balanced accuracy score of the initital model was 0.94. It was 0.99 for the model created using random oversampling. The accuracy score represents the total number of correct predictions divided by the total number of predictions. As can be seen, the model is highly accurate.
+- **Accuracy Score:** The balanced accuracy score of the initital model was 0.94. It was 0.99 for the model created using random oversampling. The accuracy score represents the total number of correct predictions divided by the total number of predictions. As can be seen, the model is highly accurate.
 
--Precision Score: The Precision Score measures the proportion of positively predicted labels that are actually correct. The initial model had a Precision Score of 1.0 for loans that paid off and 0.89 for loans that defaulted -- very high scores. The random oversampling model had a similarly high Precision Score, 0.99 for both.
+- **Precision Score:** The Precision Score measures the proportion of positively predicted labels that are actually correct. The initial model had a Precision Score of 1.0 for loans that paid off and 0.89 for loans that defaulted -- very high scores. The random oversampling model had a similarly high Precision Score, 0.99 for both.
 
--Recall Score: The Recall Score measures the model's ability to correctly predict the positives out of actual positives. This is also very high for both models, 1.00/0.87 and 0.99/0.99 respectively.
+- **Recall Score:** The Recall Score measures the model's ability to correctly predict the positives out of actual positives. This is also very high for both models, 1.00/0.87 and 0.99/0.99 respectively.
 
 ## Summary
 
